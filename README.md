@@ -6,7 +6,7 @@
 <!-- About Me -->
 <h3 align="center">I am a currently pursuing a Bachelor's in Computer Science from HiLCoE school of Computer Science. I am an active learner who is continually passionate in learning new technologies and avid in working in them.</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/BitsuAMamo?tab=repositories](https://github.com/kaleabteweld?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/kaleabteweld?tab=repositories](https://github.com/kaleabteweld?tab=repositories)
 
 - 📫 How to reach me **kaleabteweld3@gmail.com**
 
