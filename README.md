@@ -32,13 +32,15 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **React, Nodejs, mongooes**
+- 🔭 I’m currently working on **React, Nodejs, mongooses**
 
-- 🌱 I’m currently learning **web 3.**
+- 🌱 I’m currently learning **web 3.0**
 
 - 🤖 I like developing backend
 
 - 📫 Feel free to reach me out **kaleabteweld3@gmail.com**
+
+- 🙈 In a three-way relationship with Co-Pilot and ChatGPT
 
 <!--Intro end-->
 <br />
