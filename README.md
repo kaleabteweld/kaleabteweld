@@ -22,7 +22,7 @@
 </div>
 
 # 💫 About Me:
-🔭 I’m currently working on Web 2.0<br><br>🌱 I’m currently learning Web 3.0<br><br>🤖 I like developing backend systems<br><br>📫 Feel free to reach out to me at kaleabteweld3@gmail.com<br><br>🙈 In a three-way relationship with Co-Pilot and ChatGPT
+🔭 I’m currently working on Web 2.0<br><br>🌱 I’m currently learning AI and Web 3.0<br><br>🤖 I like developing backend systems<br><br>📫 Feel free to reach out to me at kaleabteweld3@gmail.com<br><br>🙈 In a three-way relationship with Co-Pilot and ChatGPT
 
 
 ## 🌐 Socials:
